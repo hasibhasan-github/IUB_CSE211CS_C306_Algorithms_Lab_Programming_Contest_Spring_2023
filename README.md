@@ -1,0 +1,2 @@
+# IUB_CSE211CS_C306_Algorithms_Lab_Programming_Contest_Spring_2023
+This repository not only includes the upload of all the codes for the Algorithm Course Contest held at IUB but also adds the name of the author, Md Hasib Hasan, who is a passionate CS student at Independent University Bangladesh. The README file has been updated to include essential information about the contest and give credit to the author.
